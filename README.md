@@ -17,7 +17,7 @@ def display_board(board):
 		print("+-------" * 3,"+",sep="")
 
 
-def enter_move(board):
+ def enter_move(board):
 
 	ok = False	# fake assumption - we need it to enter the loop
 	
